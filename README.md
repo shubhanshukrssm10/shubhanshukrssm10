@@ -1,4 +1,4 @@
-<div text-align="centre">
+<div align="centre">
   <h1 align="center">Hi 👋, I'm Shubhanshu kumar Srivastav</h1>
 <h3 align="center">A passionate FullStack Web Developer from India</h3>
 
